@@ -1,4 +1,4 @@
-***You need to split the file into several modules***:
+***main.py is executable file splitted into several modules:***
 ShowVacancies,
 CountryRegionCity,
 DraWidgets,
